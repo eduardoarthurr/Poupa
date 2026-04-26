@@ -48,3 +48,14 @@ O **POUPA** é um MVP de CRM Conversacional desenvolvido para profissionais libe
 1. Clone o repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/poupa-api.git
+
+Copyright (C) 2026 Eduardo Arthur Rodovalho Alves Filho
+
+Todos os direitos reservados. 
+
+Este código-fonte é disponibilizado apenas para fins de visualização e avaliação de portfólio. 
+Não é permitida a cópia, modificação, distribuição ou uso comercial deste software, 
+total ou parcial, sem a autorização prévia e por escrito do detentor dos direitos autorais.
+
+O uso do código para fins de aprendizado pessoal é permitido, mas a reprodução do sistema 
+para fins de hospedagem ou venda é estritamente proibida.
