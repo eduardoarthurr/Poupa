@@ -32,5 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 
-### para nunca subir credenciais do banco de dados ###
-/src/main/resources/application.properties
+
