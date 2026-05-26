@@ -32,4 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
+### credenciais ###
+src/main/resources/application.local.properties
+
 
