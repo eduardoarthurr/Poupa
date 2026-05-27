@@ -48,6 +48,11 @@ O **POUPA** é um MVP de CRM Conversacional desenvolvido para profissionais libe
 1. Clone o repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/poupa-api.git
+2. Crie o arquivo src/main/resources/application.local.properties e adicione suas credenciais do banco de dados:
+   ```bash
+   spring.datasource.url=SEU_LOCAL_HOST
+   spring.datasource.username=SEU_USUARIO
+   spring.datasource.password=SUA_SENHA
 
 Copyright (C) 2026 Eduardo Arthur Rodovalho Alves Filho
 
