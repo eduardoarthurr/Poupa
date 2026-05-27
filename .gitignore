@@ -32,7 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-### credenciais ###
+### remove credenciais ###
 src/main/resources/application.local.properties
-
 
