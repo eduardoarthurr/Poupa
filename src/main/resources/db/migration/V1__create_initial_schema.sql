@@ -16,7 +16,7 @@ CREATE TABLE tb_servicos (
     professional_id UUID NOT NULL REFERENCES tb_professionals(id) ON DELETE CASCADE,
     nome VARCHAR(100) NOT NULL,
     categoria VARCHAR(50),
-    preco DECIMAL(10, 2) NOT NULL,
+    preco DECIMAL(10, 2) NOT NULL,git 
     duracao_minutos INTEGER NOT NULL,
     active BOOLEAN DEFAULT TRUE,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
