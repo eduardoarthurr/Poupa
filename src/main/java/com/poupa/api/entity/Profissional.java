@@ -13,8 +13,8 @@ import java.util.UUID;
 
 
 /*
- @Entity: Diz ao JPA/Hibernate que esta classe é uma entidade de banco de dados.
- Ela será mapeada para uma tabela.
+ @Entity: diz ao JPA/Hibernate que esta classe é uma entidade de banco de dados
+ ela será mapeada para uma tabela
 
  @Table(name = "tb_professionals"): Define o nome exato da tabela no PostgreSQL.
  Se não usarmos, o Java tentaria criar uma tabela chamada "Profissional".
@@ -31,7 +31,10 @@ ANOTAÇÕES LOMBOK:
  @AllArgsConstructor: Cria um construtor com todos os campos (Facilita criar o objeto em uma linha no código).
 */
 
-@Getter @Setter @NoArgsConstructor @AllArgsConstructor
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public class Profissional {
 
 
